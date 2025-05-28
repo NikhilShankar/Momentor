@@ -1,7 +1,7 @@
 # Privacy Policy for Momentor
 
-**Effective Date:** [Insert Date]  
-**Last Updated:** [Insert Date]
+**Effective Date:** 28-05-2025  
+**Last Updated:** 28-05-2025
 
 NixacLabs ("we," "us," or "our") operates the Momentor mobile application (the "App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your personal information when you use our App.
 
@@ -149,7 +149,7 @@ This Privacy Policy is governed by the laws of Canada. Any disputes will be reso
 
 ---
 
-**Last Updated:** [Insert Date]  
+**Last Updated:** 28-05-2025  
 **Version:** 1.0
 
 *This Privacy Policy is designed to comply with applicable privacy laws in Canada (PIPEDA), United States (including CCPA), and India (DPDP Act 2023). Users in different jurisdictions may have additional rights under local laws.*
